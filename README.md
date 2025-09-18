@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Mohammed Luqmaan</h1>
-<h3 align="center">A passionate Associate Product Developer | AI/ML & Security Enthusiast</h3>
+<h3 align="center">A passionate Developer | AI/ML & Security Enthusiast</h3>
 
 ---
 
