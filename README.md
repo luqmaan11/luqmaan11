@@ -30,7 +30,6 @@
 <img src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
 <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img src="https://img.icons8.com/color/48/fastapi.png" alt="fastapi"/>
 <img src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
 <img src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/>
