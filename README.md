@@ -11,18 +11,10 @@
 ⚛️ ReactJS | 🚀 NodeJS | ☁️ Cloud (AWS, Azure, GCP) | 🤖 Advanced AI/ML  
 
 ### 💬 Ask me about  
-🖥️ Python | 💡 AI/ML | 🔐 Cybersecurity | ⚙️ CI/CD Pipelines | ☁️ Cloud Technologies  
+🖥️ Python | 💡 AI/ML | 💡DSA
 
 ### 📫 How to reach me  
 [![Gmail Badge](https://img.shields.io/badge/-mohammed.luqmaan2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammed.luqmaan2001@gmail.com)  
-
----
-
-### 🚀 Roles & Activities  
-- Associate Product Developer @ Epicor  
-- 🧑‍🏫 Generative AI Evangelist | Conducted AI/LLM training workshops  
-- 🤝 Intern Mentor & Team Trainer | Guided interns on automation and product tools  
-- 🎓 1st Place ISRO Project (AI/ML for Real-Time Object Detection)  
 
 ---
 
