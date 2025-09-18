@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/code.png" alt="logo"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Luqmaan</h1>
+<h1 align="center">👋 Hi, I'm Mohammed Luqmaan</h1>
 <h3 align="center">A passionate Associate Product Developer | AI/ML & Security Enthusiast</h3>
 
 ---
